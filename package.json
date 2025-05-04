@@ -5,7 +5,7 @@
   "scripts": {
     "install:web": "npm install --prefix web",
     "install:infra": "npm install --prefix infra",
-    "install:all": "npm install:web && npm run install:infra",
+    "install:all": "npm run install:web && npm run install:infra",
     "next:dev": "npm -w web run dev",
     "mastra:dev": "npm -w web run mastra:dev",
     "cdk:deploy": "npm -w infra run cdk deploy -- --require-approval never",
