@@ -52,7 +52,7 @@ All commands should be executed at the repository root.
 First, install dependencies for the root project.
 
 ```bash
-npm install:all
+npm run install:all
 ```
 
 Next, set up environment variables by creating .env.development file which contains the aws credentials.
