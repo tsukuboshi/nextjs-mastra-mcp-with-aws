@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@ai-sdk/amazon-bedrock": "^2.2.8",
-    "@aws-sdk/credential-providers": "^3.787.0",
+    "@aws-sdk/credential-providers": "^3.995.0",
     "@mastra/core": "^1.4.0",
     "@mastra/mcp": "^1.0.1",
     "@playwright/mcp": "^0.0.40",
